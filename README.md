@@ -10,7 +10,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RobAlvIT/azure-network-protocols))
   - [VPN Setup and Usage](https://github.com/RobAlvIT/vpn-lab/tree/main)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RobAlvIT/configure-ad)
-  - [Exploring DNS Management and Practices](https://github.com/perryp82/dns-lab)
+  - [Exploring DNS Management and Practices](https://github.com/RobAlvIT/dns-lab)
   - [Network Shares and File Permission Management](https://github.com/perryp82/network-file-share-lab)
 
 <h2>🤳Connect with me:</h2>
