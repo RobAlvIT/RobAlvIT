@@ -11,7 +11,7 @@
   - [VPN Setup and Usage](https://github.com/RobAlvIT/vpn-lab/tree/main)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/RobAlvIT/configure-ad)
   - [Exploring DNS Management and Practices](https://github.com/RobAlvIT/dns-lab)
-  - [Network Shares and File Permission Management](https://github.com/perryp82/network-file-share-lab)
+  - [Network Shares and File Permission Management](https://github.com/RobAlvIT/network-file-share-lab)
 
 <h2>🤳Connect with me:</h2>
 
